@@ -1,0 +1,40 @@
+.chip {
+    width: 60px;
+    height: 60px;
+    border: 5px solid black;
+    border-radius: 50%;
+    margin: 5px;
+  }
+  
+  .hlight {
+    background-color: #888888;
+  }
+  
+  [color="red"] {
+    background-color: #FF0000 !important;
+  }
+  
+  [color="blue"] {
+    background-color: #0000FF !important;
+  }
+  
+  .column {
+    float: right;
+    display: inline-inline-block;
+  }
+  
+.card{
+  text-align: center;
+  background-color: lightblue;
+}
+
+.center {
+  margin: auto;
+  width: 70%;
+  padding: 10px;
+}
+
+body{
+  background-image: url(./Dark\ blue\ wallpaper\ gold\ stars\ laptop\ background.jpg);
+  font-family : 'Luckiest Guy', cursive;
+}
